@@ -5454,3 +5454,232 @@ USAGE:
     geckodriver.exe --port <PORT>
 
 For more information try --help
+1525090227215	geckodriver	INFO	geckodriver 0.20.1
+1525090227331	geckodriver	INFO	Listening on 127.0.0.1:64075
+1525090230977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Allss\\AppData\\Local\\Temp\\rust_mozprofile.liPBbzUx4b1N"
+1525090238354	Marionette	INFO	Enabled via --marionette
+1525090246394	Marionette	INFO	Listening on port 64096
+1525090247864	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525090363367	geckodriver	INFO	geckodriver 0.20.1
+1525090363400	geckodriver	INFO	Listening on 127.0.0.1:65234
+1525090366502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Allss\\AppData\\Local\\Temp\\rust_mozprofile.I4QYBUVbTbTZ"
+1525090368812	Marionette	INFO	Enabled via --marionette
+1525090375486	Marionette	INFO	Listening on port 65253
+1525090376416	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+1525090439771	geckodriver	INFO	geckodriver 0.20.1
+1525090439785	geckodriver	INFO	Listening on 127.0.0.1:49548
+1525090442987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Allss\\AppData\\Local\\Temp\\rust_mozprofile.AKldvo2wCoOO"
+1525090445274	Marionette	INFO	Enabled via --marionette
+1525090452352	Marionette	INFO	Listening on port 49573
+1525090453174	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+1525090561791	geckodriver	INFO	geckodriver 0.20.1
+1525090561806	geckodriver	INFO	Listening on 127.0.0.1:50641
+1525090564856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Allss\\AppData\\Local\\Temp\\rust_mozprofile.Uc0Mz9Zy9oBr"
+1525090567730	Marionette	INFO	Enabled via --marionette
+1525090572394	Marionette	INFO	Listening on port 50659
+1525090572538	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/32cdc46e07ef6a4e30d9bdcc67fb06a0aa678691.js?19ccb94, line 2: unreachable code after return statement
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Allss\AppData\Local\openvr\openvrpaths.vrpath

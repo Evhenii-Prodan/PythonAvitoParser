@@ -14,6 +14,9 @@ class Pars:
 	def load_data(self):
 	def proxy(self):
 		pass
+
+
+		ads
 	def __driver(self):
 		options = Options()
 		options.add_argument("--headless")

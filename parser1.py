@@ -3,19 +3,29 @@ from selenium.webdriver.firefox.options import Options
 import time
 class Pars:
 	def __init__(self):
-		driver = self.__driver()
-		city = self.get_location(driver)
-		categ = self.get_categ(city,driver)
-		#categ = 'https://m.avito.ru/kazan/komnaty'
-		pages = self.get_pages(categ,driver)
-		self.get_elements(categ, pages,driver)
-		print('В выбраной категории '+str(pages)+' страниц')
+		pass
 	def connect_mysql(self):
 		pass
 	def load_data(self):
 		pass
 	def proxy(self):
 		pass
+	def start(self):
+		#начало парсинга
+		#открываем браузер
+		driver = self.__driver()
+		#выбираем город
+		city = self.get_location(driver)
+		#Выбираем категорию
+		categ = self.get_categ(city,driver)
+
+		#Получаем количество страниц в категории
+		pages = self.get_pages(categ,driver)
+		#Получаем информацию из объявлений
+		self.get_elements(categ, pages,driver)
+		#Закрываем браузер
+		self.__driver_close()
+		#print('В выбраной категории '+str(pages)+' страниц')
 	def __driver(self, headless = 1):
 		if headless == 1:
 			options = Options()
@@ -140,23 +150,5 @@ class Pars:
 		else:
 			return locations[location]
 
-
-
-
-
-
 parsing = Pars()
 		
-
-		
-		
-
-		
-		
-
-		
-						#ans = parsing.get_number('https://m.avito.ru/sankt-peterburg/muzykalnye_instrumenty/gitara_1071824391')
-
-						#print(get_number('https://m.avito.ru/sankt-peterburg/muzykalnye_instrumenty/gitara_1071824391'))
-						#print(ans)
-						#'https://m.avito.ru/sankt-peterburg/muzykalnye_instrumenty/gitara_1071824391'

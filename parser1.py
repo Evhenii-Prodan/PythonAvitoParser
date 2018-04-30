@@ -12,6 +12,7 @@ class Pars:
 	def connect_mysql:
 		pass
 	def load_data(self):
+	def proxy(self):
 		pass
 	def __driver(self):
 		options = Options()

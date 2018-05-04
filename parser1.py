@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import time
+import random
 class Pars:
 	def __init__(self):
 		pass
@@ -46,6 +47,10 @@ class Pars:
 		urls =[]
 		for Url in url:
 			urls.append(Url.get_attribute('href'))
+		#счетчик для заполнения массива
+		i = 0
+		#массив словарей информации
+		data = []
 		for URL in urls:
 			#URL.get_attribute('href')
 			driver.get(URL)
@@ -53,9 +58,24 @@ class Pars:
 			button = driver.find_element_by_xpath("//a[@title='Телефон продавца']")	
 		#клик по кнопке
 			button.click()
-			answer = button.get_attribute('href')
-			print(answer)
-			time.sleep(40)
+		#сохранение номера телефона
+			phone = button.get_attribute('href')
+
+			print(phone)
+		#Сохранение заголовка
+			header = driver.find_element_by_xpath("//header[@class='single-item-header b-with-padding']")
+			#словарь информации о объявлении
+			ad = {
+				'header': header,
+				'url':url,
+				'phone': phone
+				}
+			#заполнение массива
+			data[i] = ad
+			i+=1
+			#Перерыв между объявлениями	
+			time.sleep(random(40,70))
+			
 		#driver.close()
 		#return answer
 	def get_elements(self,url, pages, driver):
